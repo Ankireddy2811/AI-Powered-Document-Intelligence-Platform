@@ -308,16 +308,6 @@ mvn spring-boot:run
 
 ---
 
-## Resume Highlights
-
-- Built an end-to-end RAG platform using Java, Spring Boot, PostgreSQL, pgvector, and Google Gemini.
-- Implemented PDF ingestion, chunking, embedding generation, semantic retrieval, and source attribution pipelines.
-- Developed vector similarity search using PostgreSQL pgvector and cosine distance.
-- Optimized document ingestion through JDBC batch processing and metadata-based storage.
-- Engineered configurable prompt strategies for different AI interaction modes.
-
----
-
 ## Author
 
 **Ankaiah Puttam**
