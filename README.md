@@ -1,6 +1,6 @@
 # AI-Powered Document Intelligence Platform (RAG)
 
-🚀 An AI-powered Document Question Answering platform built using Java, Spring Boot, PostgreSQL, pgvector, and Google Gemini.
+An AI-powered Document Question Answering platform built using Java, Spring Boot, PostgreSQL, pgvector, and Google Gemini.
 
 The application enables users to upload PDF documents and ask natural language questions. It leverages Retrieval-Augmented Generation (RAG) to retrieve relevant document content and generate accurate, context-aware answers with source attribution.
 
